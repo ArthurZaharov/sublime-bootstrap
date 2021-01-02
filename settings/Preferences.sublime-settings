@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"drag_text": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
@@ -23,12 +23,14 @@
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
+		80,
 		120
 	],
+	"save_on_focus_lost": true,
 	"show_full_path": true,
 	"soda_classic_tabs": false,
 	"tab_size": 2,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"folder_exclude_patterns": [".git", ".hg", "tmp"]
