@@ -2,22 +2,31 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"ChangeQuotes",
+		"A File Icon"
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
 		"Better CoffeeScript",
+		"Case Conversion",
+		"ChangeQuotes",
 		"Cucumber",
+		"Dockerfile Syntax Highlighting",
 		"Git",
 		"GitGutter",
+		"GitHubinator",
 		"Haml",
+		"JSX",
+		"JavaScriptNext - ES6 Syntax",
 		"LESS",
+		"MarkdownPreview",
+		"Material Theme",
 		"Package Control",
+		"Predawn",
+		"Pretty JSON",
 		"Quick File Move",
 		"Ruby Slim",
 		"Sass",
-		"Theme - Soda",
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"Side​Bar​Enhancements",
-		"Babel",
-		"A File Icon"
+		"SideBarEnhancements",
+		"Theme - Soda"
 	]
 }
