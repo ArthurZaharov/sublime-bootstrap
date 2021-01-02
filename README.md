@@ -4,8 +4,9 @@ Simple way to configure fresh installation of Sublime Text 3
 
 Config includes:
 
+- [Material Theme](http://equinusocio.github.io/material-theme/#/default)
 - [Soda Theme](http://buymeasoda.github.com/soda-theme/)
-- Packages for work with GIT, CoffeeScript, SASS, LESS, Slim and HAML
+- Packages for work with GIT, CoffeeScript, JavaScript, SASS, LESS, Slim and HAML
 - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes). Quick changing quotes with `alt+shift+'`.
 - [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile). Quick file creating with `opt+cmd+n`.
 - [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete).  All open files are searched for autocompletion candidates.
