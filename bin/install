@@ -51,7 +51,7 @@ else
   osascript -e "tell application \"$APP_NAME\" to quit"
 fi
 
-if [ -d "$SUBLIME_DIR/Packages/Package Control" ]
+if [ -a "$SUBLIME_DIR/Installed Packages/Package Control.sublime-package" ]
 then
   echo 'Package Control already installed.'
 else
